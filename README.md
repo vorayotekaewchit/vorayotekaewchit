@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm V 👋
 
-<!--
-**vorayotekaewchit/vorayotekaewchit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **full-stack engineer** building end-to-end web applications —
+from frontend interfaces to backend logic and APIs.
 
-Here are some ideas to get you started:
+## What I work on
+- Full-stack web apps
+- APIs & backend systems
+- Internal tools and automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+- React, Next.js, Tailwind
+- Node.js, APIs, databases
+- Git & modern dev workflows
+
+## Currently
+Focused on shipping clean, maintainable full-stack projects.
+
+📫 Reach me:   
+LinkedIn: https://www.linkedin.com/in/vorayote-kaewchit/
